@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I made this boilerplate for my own perseonal use when building React apps but it's available for anyone who wants to use it. 
 
+It includes the basic react set-up plus a Router
+
 Steps on how to get started:
 
 1. Clone this repositiory to your local machine `git clone BOILERPLATE-URL NEW-PROJECT-NAME`
