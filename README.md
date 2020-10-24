@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I made this boilerplate for my own perseonal use when building React apps but it's available for anyone who wants to use it. 
+
+Steps on how to get started:
+
+1. Clone this repositiory to your local machine `git clone BOILERPLATE-URL NEW-PROJECT-NAME`
+2. `cd` into the cloned repository
+3. Make a fresh start of git history with `rm -rf .git && git init`
+4. Install the node dependencies `npm i`
+5. Edit the contents of the `package.json` to use NEW-PROJECT-NAME instead of `"name": "react-boilerplate"`,
+
 ## Available Scripts
 
 In the project directory, you can run:
